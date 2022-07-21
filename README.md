@@ -34,7 +34,7 @@ This program will produce a password after a user presses the generate password 
     Add bool to choices array
     Repeat 4x for each character type
 
-### Generating the Rest of the Password
+### Generating the Password
 
     
     We now a 1-4 character password depending on the user choices.
