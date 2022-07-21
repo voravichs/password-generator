@@ -91,7 +91,7 @@ Credit to https://owasp.org/www-community/password-special-characters for the li
 
 ## Github Deployed Site Link and Repository Link
 
-Github Repository: https://github.com/voravichs/professional-portfolio
+Github Repository: https://github.com/voravichs/password-generator
 
-Github Pages Deployment: https://voravichs.github.io/professional-portfolio/
+Github Pages Deployment: https://voravichs.github.io/password-generator/
 
