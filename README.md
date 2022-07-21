@@ -69,19 +69,19 @@ The password generator was tested for certain user inputs and shows no bugs.
 
 * Clicking Generate Password 
 
-![a prompt asking about password length](./assets/images/screen1.png)
+![a prompt asking about password length](./assets/images/screen1.PNG)
 
 * Invalid Entry of Password Length
 
-![an alert saying that the user's entry is invalid](./assets/images/screen2.png)
+![an alert saying that the user's entry is invalid](./assets/images/screen2.PNG)
 
 * Prompts asking about Desired Character Types
 
-![a prompt asking whether you want lowercase letters](./assets/images/screen3.png)
+![a prompt asking whether you want lowercase letters](./assets/images/screen3.PNG)
 
 * Final Result
 
-![a password generator with a 100 character password generated ](./assets/images/screen4.png)
+![a password generator with a 100 character password generated ](./assets/images/screen4.PNG)
 
 ## Credits
 
