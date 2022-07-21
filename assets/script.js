@@ -47,7 +47,7 @@ fullCharSet = [lowAlphabet, uppAlphabet, specChars, numSet];
     return;
   }
 
-  // ===Password Generation Function===
+  // ===Character Generation Function===
   function generateRandomChar(numChars,charSet) {
     var randChars = "";
     for (var i = 0; i < numChars; i++) {
@@ -57,7 +57,6 @@ fullCharSet = [lowAlphabet, uppAlphabet, specChars, numSet];
   }
 
   // ===Password Generation====
-  
   // Initial Chars
   if (choices[0]) {
     password = password + generateRandomChar(1,lowAlphabet);
